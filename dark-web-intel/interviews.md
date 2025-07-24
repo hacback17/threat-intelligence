@@ -41,7 +41,3 @@
 [Interview with LockBit 3.0](https://www.redhotcyber.com/en/homepage/threat-actors-interviews/)
 
 [More Interviews from Red Hot Cyber](https://www.redhotcyber.com/en/homepage/threat-actors-interviews/)
-2022 – Interview with Killnet
-2022 – Interview with Anonymous Italia
-2021 – Interview with Everest ransomware
-2021 – Interview with Ghost Exodus
