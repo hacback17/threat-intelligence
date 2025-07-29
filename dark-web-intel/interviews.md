@@ -28,17 +28,21 @@ Interview with Funksec, a ransomware group that emerged in late 2024, discussing
 - Threat Actor Interview: Spotlighting on 303 – An Exploit Developer & Initial Access Broker Targeting Large Orgs
 303 is established as an exploit developer with expertise in discovering and weaponizing vulnerabilities, often selling access to compromised networks (initial access) to other threat actors, including ransomware operators. [more details](https://osint10x.com/threat-actor-interview-spotlighting-on-303-an-exploit-developer-initial-access-broker-targeting-large-orgs/)
 
-[Threat Actor Interview: Spotlighting on Pryx – Admin of the Hellcat Ransomware Group](https://osint10x.com/threat-actor-interview-spotlighting-on-pryx-admin-of-the-hellcat-ransomware-group/)
+- [Threat Actor Interview: Spotlighting on Pryx – Admin of the Hellcat Ransomware Group]
+Interview with Pryx, a teenager involved in initial access brokering and malware development, associated with Hellcat. [more details](https://osint10x.com/threat-actor-interview-spotlighting-on-pryx-admin-of-the-hellcat-ransomware-group/)
 
-[Interview with Pryx Part 2: Diving Deeper into Server-Side Stealers & Other Interesting Chit-chats](https://osint10x.com/interview-with-pryx-part-2-diving-deeper-into-server-side-stealers-other-interesting-chit-chats/)
+- Interview with Pryx Part 2: Diving Deeper into Server-Side Stealers & Other Interesting Chit-chats 
+[more details](https://osint10x.com/interview-with-pryx-part-2-diving-deeper-into-server-side-stealers-other-interesting-chit-chats/)
 
-[Threat Actor Interview: Spotlighting on Miyako – Admin of the Hellcat Ransomware Group](https://osint10x.com/threat-actor-interview-spotlighting-on-miyako-admin-of-the-hellcat-ransomware-group/)
+- Threat Actor Interview: Spotlighting on Miyako – Admin of the Hellcat Ransomware Group
+An interview with Miyako, specializing in targeted breaches and intellectual property theft, affiliated with the Hellcat ransomware group. [more details](https://osint10x.com/threat-actor-interview-spotlighting-on-miyako-admin-of-the-hellcat-ransomware-group/)
 
-[Threat Actor Interview: Spotlighting on Sukob – Affiliated with Hellcat Ransomware Group](https://osint10x.com/threat-actor-interview-spotlighting-on-sukob-affiliated-with-hellcat-ransomware-group/)
+- Threat Actor Interview: Spotlighting on Sukob – Affiliated with Hellcat Ransomware Group
+Discussion with Sukob, a young hacker focused on malware development and initial access sales related to Hellcat operations. [more details] (https://osint10x.com/threat-actor-interview-spotlighting-on-sukob-affiliated-with-hellcat-ransomware-group/)
 
-[Threat Actor Interview: Spotlighting on espe0n – RansomHub Affiliate and Contributor to Quilin, Lockbit 3.0](https://osint10x.com/threat-actor-interview-spotlighting-on-espe0n-a-ransom-hub-affiliate-and-contributor-to-quilin-lockbit-3-0-and-more/)
+- [Threat Actor Interview: Spotlighting on espe0n – RansomHub Affiliate and Contributor to Quilin, Lockbit 3.0](https://osint10x.com/threat-actor-interview-spotlighting-on-espe0n-a-ransom-hub-affiliate-and-contributor-to-quilin-lockbit-3-0-and-more/)
 
-[Threat Actor Interview: Spotlighting on Next-Gen Apos Ransomware Group](https://osint10x.com/threat-actor-interview-spotlighting-on-next-gen-apos-ransomware-group/)
+- [Threat Actor Interview: Spotlighting on Next-Gen Apos Ransomware Group](https://osint10x.com/threat-actor-interview-spotlighting-on-next-gen-apos-ransomware-group/)
 
 #### From Red Hot Cyber
 
@@ -61,3 +65,5 @@ Interview with Funksec, a ransomware group that emerged in late 2024, discussing
 [Interview with LockBit 3.0](https://www.redhotcyber.com/en/homepage/threat-actors-interviews/)
 
 More Interviews from [Red Hot Cyber](https://www.redhotcyber.com/en/homepage/threat-actors-interviews/)
+
+### The work is in progress. So keep coming up with new additions.
