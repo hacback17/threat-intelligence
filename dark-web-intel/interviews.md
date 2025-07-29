@@ -47,7 +47,7 @@ Interview with the Apos ransomware crew, who market themselves as an “ethical�
 ---
 
 🔁 **More Interviews from Osint10x**:  
-[https://osint10x.com/category/threat-actor-interviews/)
+[https://osint10x.com/category/threat-actor-interviews/](https://osint10x.com/category/threat-actor-interviews/)
 
 ---
 
