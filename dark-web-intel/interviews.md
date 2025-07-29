@@ -20,11 +20,13 @@ In summary, these interviews are a valuable source of nuanced, human-centric int
 
 #### From Osint10x:
 
-[Threat Actor Interview: Spotlighting on Funksec Ransomware Group](https://osint10x.com/threat-actor-interview-spotlighting-on-funksec-ransomware-group/)
+- Threat Actor Interview: Spotlighting on Funksec Ransomware Group
 
-[Emerging Hellcat Ransomware Group Targets Government Entities and High-Revenue Organizations](https://osint10x.com/emerging-hellcat-ransomware-group-targets-government-entities-and-high-revenue-organizations/)
+Interview with Funksec, a ransomware group that emerged in late 2024, discussing their techniques, goals, and operations. [more details] (https://osint10x.com/threat-actor-interview-spotlighting-on-funksec-ransomware-group/)
 
-[Threat Actor Interview: Spotlighting on 303 – An Exploit Developer & Initial Access Broker Targeting Large Orgs](https://osint10x.com/threat-actor-interview-spotlighting-on-303-an-exploit-developer-initial-access-broker-targeting-large-orgs/)
+
+- Threat Actor Interview: Spotlighting on 303 – An Exploit Developer & Initial Access Broker Targeting Large Orgs
+303 is established as an exploit developer with expertise in discovering and weaponizing vulnerabilities, often selling access to compromised networks (initial access) to other threat actors, including ransomware operators. [more details](https://osint10x.com/threat-actor-interview-spotlighting-on-303-an-exploit-developer-initial-access-broker-targeting-large-orgs/)
 
 [Threat Actor Interview: Spotlighting on Pryx – Admin of the Hellcat Ransomware Group](https://osint10x.com/threat-actor-interview-spotlighting-on-pryx-admin-of-the-hellcat-ransomware-group/)
 
